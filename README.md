@@ -2,5 +2,5 @@
 
 ## Hace tu pedi 
 
-### pagína web en desarrollo <a target="_blank" href="agustyn97.github.io/pedimon-/index.html">Look at me</a>
+### pagína web en desarrollo <a target="_blank" href="https://agustyn97.github.io/PEDIMON-/index.html">Look at me</a>
 
